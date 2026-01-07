@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Hi there, I'm Ezzedin Hassoun! 👋</h1>
   <p>
-    <strong>Electrical Engineer | Junior Full Stack Developer</strong>
+<strong>Junior Full Stack Developer | Electrical Engineer</strong>
   </p>
   <p>
    Graduated from <strong>Birzeit University</strong>, currently enhancing my skills in
