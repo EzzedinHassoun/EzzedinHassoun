@@ -23,8 +23,9 @@
 💻 Implemented backend using **Python Django** and **MySQL**, with interactive frontend components.  
 
 ### Maslahati  
-🎯 A **task and issue tracking platform** designed to improve team collaboration and productivity.  
-💻 Built with **Java (Spring Boot) for backend** and **React for frontend**, featuring user authentication, task management, and real-time updates.  
+🎯 A platform that **connects local craftsmen and service providers** within a specific area to improve accessibility and collaboration.  
+💻 Built with **Java (Spring Boot) for backend** and **React for frontend**, featuring user authentication, service listings, and real-time updates.
+
 
 ---
 
