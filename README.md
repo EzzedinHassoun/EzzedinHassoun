@@ -65,7 +65,7 @@ Always open to collaborating on innovative projects. If you have an idea or need
 
 ## 📬 How to Reach Me  
 📧 **Email**: [ezzedinhassoun_1994@hotmail.com](mailto:ezzedinhassoun_1994@hotmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/ezzedinhassoun](https://linkedin.com/in/ezzedinhassoun)  
+🔗 **LinkedIn**: [linkedin.com/in/ezzedin-hassoun-b85093226](https://www.linkedin.com/in/ezzedin-hassoun-b85093226/)  
 
 ---
 
@@ -83,7 +83,7 @@ I enjoy solving **coding challenges** and building **interactive web application
 
 ## 🤝 Let's Connect!  
 <p align="center">
-  <a href="https://www.linkedin.com/in/ezzedinhassoun/">
+  <a href="https://www.linkedin.com/in/ezzedin-hassoun-b85093226/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=50px />
   </a>
 </p>
